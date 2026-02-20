@@ -19,7 +19,7 @@ int main() {
     printf("   POISK MAKSIMALNOGO KRATCHAISHEGO RASSTOYANIYA\n");
     printf("         V ORIENTIROVANNOM GRAFE\n");
     printf("========================================\n\n");
-
+    printf("i");
     printf("Vvedite kolichestvo vershin grafa N [1 .. 100]: ");
     scanf_s("%d", &N);
 
