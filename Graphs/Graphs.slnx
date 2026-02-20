@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../../../../../../../../git/Andrey/Graphs/Graphs/Graphs.vcxproj" Id="1decffe0-41ef-478d-865e-0bdaff6287db" />
+  <Project Path="Floyd-WarshallN-1/Floyd-WarshallN-1.vcxproj" Id="36c15061-6294-46f2-8cec-56e9404172ee" />
+  <Project Path="Graphs.vcxproj" Id="1decffe0-41ef-478d-865e-0bdaff6287db" />
 </Solution>
