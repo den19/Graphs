@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="DijkstraN-2/DijkstraN-2.vcxproj" Id="f50a2106-6ad6-4711-b6de-e6e18a3e541c" />
   <Project Path="Floyd-WarshallN-1/Floyd-WarshallN-1.vcxproj" Id="36c15061-6294-46f2-8cec-56e9404172ee" />
   <Project Path="Graphs.vcxproj" Id="1decffe0-41ef-478d-865e-0bdaff6287db" />
 </Solution>
