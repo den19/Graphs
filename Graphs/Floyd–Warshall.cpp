@@ -33,7 +33,7 @@ int main() {
         getchar();
         return 1;
     }
-
+    // decstra
     printf("\nVvedite matricu smezhnosti %d x %d:\n", N, N);
     printf("(celye chisla, gde -1 oznachaet otsutstvie rebra)\n");
     printf("(na glavnoi diagonali vsegda nuli)\n\n");
